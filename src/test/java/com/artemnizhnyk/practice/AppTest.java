@@ -1,4 +1,4 @@
-package com.artemnizhnyk;
+package com.artemnizhnyk.practice;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
